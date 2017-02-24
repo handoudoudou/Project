@@ -1,6 +1,0 @@
-framework module DCURLRouter {
-  umbrella header "DCURLRouter-umbrella.h"
-
-  export *
-  module * { export * }
-}
