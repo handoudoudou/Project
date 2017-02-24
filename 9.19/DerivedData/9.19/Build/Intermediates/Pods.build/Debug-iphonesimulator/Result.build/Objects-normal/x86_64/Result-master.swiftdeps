@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.3 (swiftlang-800.10.13 clang-800.0.42.1)"
+options: "a877eced6a6166c536685e43a69452ee"
+build_time: [541072974, 711695000]
+inputs:
+  "/Users/qianbaoios/Desktop/Demo/9.19/Pods/Result/Result/Result.swift": [534578005, 0]
+  "/Users/qianbaoios/Desktop/Demo/9.19/Pods/Result/Result/ResultType.swift": [534578005, 0]

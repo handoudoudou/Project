@@ -1,0 +1,954 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/BlocksKit/BlocksKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "A2BlockInvocation.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/DynamicDelegate/A2BlockInvocation.h"
+        },
+        {
+          'type': 'file',
+          'name': "A2DynamicDelegate.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/DynamicDelegate/A2DynamicDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "BKMacros.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/BKMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "BlocksKit+MessageUI.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/BlocksKit+MessageUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "BlocksKit+UIKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/BlocksKit+UIKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "BlocksKit-Swift.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/BlocksKit/BlocksKit.framework/Headers/BlocksKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "BlocksKit-umbrella.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/Target Support Files/BlocksKit/BlocksKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "MFMailComposeViewController+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/MessageUI/MFMailComposeViewController+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "MFMessageComposeViewController+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/MessageUI/MFMessageComposeViewController+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSArray+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSCache+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/DynamicDelegate/Foundation/NSCache+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSDictionary+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSIndexSet+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSIndexSet+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSInvocation+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableArray+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSMutableArray+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableDictionary+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSMutableDictionary+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableIndexSet+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSMutableIndexSet+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableOrderedSet+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSMutableOrderedSet+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableSet+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSMutableSet+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+A2BlockDelegate.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/DynamicDelegate/NSObject+A2BlockDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+A2DynamicDelegate.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/DynamicDelegate/NSObject+A2DynamicDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+BKAssociatedObjects.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSObject+BKAssociatedObjects.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+BKBlockExecution.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSObject+BKBlockExecution.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+BKBlockObservation.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSObject+BKBlockObservation.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSOrderedSet+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSOrderedSet+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSSet+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSSet+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSTimer+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/Core/NSTimer+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLConnection+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/DynamicDelegate/Foundation/NSURLConnection+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActionSheet+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIActionSheet+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIAlertView+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIBarButtonItem+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIControl+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIGestureRecognizer+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIGestureRecognizer+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImagePickerController+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIImagePickerController+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIPopoverController+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIPopoverController+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UITextField+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIView+BlocksKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+BlocksKit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/BlocksKit/BlocksKit/UIKit/UIWebView+BlocksKit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/BlocksKit/BlocksKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Intermediates/Pods.build/Debug-iphonesimulator/BlocksKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/DCURLRouter/DCURLRouter.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DCSingleton.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/DCURLRouter/DCURLRouter/DCSingleton.h"
+        },
+        {
+          'type': 'file',
+          'name': "DCURLNavgation.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/DCURLRouter/DCURLRouter/DCURLNavgation.h"
+        },
+        {
+          'type': 'file',
+          'name': "DCURLRouter-Swift.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/DCURLRouter/DCURLRouter.framework/Headers/DCURLRouter-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DCURLRouter-umbrella.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/Target Support Files/DCURLRouter/DCURLRouter-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "DCURLRouter.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/DCURLRouter/DCURLRouter/DCURLRouter.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+DCURLRouter.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/DCURLRouter/DCURLRouter/UIViewController+DCURLRouter.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/DCURLRouter/DCURLRouter.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Intermediates/Pods.build/Debug-iphonesimulator/DCURLRouter.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/Pods_9_19.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-9.19-umbrella.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/Target Support Files/Pods-9.19/Pods-9.19-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_9_19-Swift.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/Pods_9_19.framework/Headers/Pods_9_19-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/Pods_9_19.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-9.19.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/ReactiveCocoa/ReactiveCocoa.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EXTKeyPathCoding.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/EXTKeyPathCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "EXTScope.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/EXTScope.h"
+        },
+        {
+          'type': 'file',
+          'name': "MKAnnotationView+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/MKAnnotationView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+RACSequenceAdditions.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSArray+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+RACSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSData+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+RACSequenceAdditions.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSDictionary+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSEnumerator+RACSequenceAdditions.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSEnumerator+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSFileHandle+RACSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSFileHandle+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSIndexSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSIndexSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+RACTypeParsing.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSInvocation+RACTypeParsing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNotificationCenter+RACSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSNotificationCenter+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACDeallocating.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACDeallocating.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACDescription.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACKVOWrapper.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACKVOWrapper.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACLifting.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACLifting.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACPropertySubscribing.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACPropertySubscribing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACSelectorSignal.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSObject+RACSelectorSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSOrderedSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSOrderedSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACKeyPathUtilities.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSString+RACKeyPathUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACSequenceAdditions.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSString+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSString+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLConnection+RACSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSURLConnection+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSUserDefaults+RACSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/NSUserDefaults+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACArraySequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACArraySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACBehaviorSubject.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACBehaviorSubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACBlockTrampoline.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACBlockTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACChannel.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACCommand.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACCommand.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACCompoundDisposable.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACCompoundDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDelegateProxy.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDelegateProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDisposable.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicPropertySuperclass.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDynamicPropertySuperclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicSequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDynamicSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicSignal.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACDynamicSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEagerSequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEagerSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACErrorSignal.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACErrorSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEvent.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACGroupedSignal.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACGroupedSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACImmediateScheduler.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACImmediateScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACIndexSetSequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACIndexSetSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOChannel.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACKVOChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOProxy.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACKVOProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOTrampoline.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACKVOTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACMulticastConnection.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACMulticastConnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACPassthroughSubscriber.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACPassthroughSubscriber.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACQueueScheduler+Subclass.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACQueueScheduler+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACQueueScheduler.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACQueueScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACReplaySubject.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACReplaySubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACReturnSignal.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACReturnSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler+Subclass.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScheduler+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScopedDisposable.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScopedDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSerialDisposable.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSerialDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignal+Operations.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignal+Operations.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignal.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignalSequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSignalSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStream.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStringSequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACStringSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubject.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriber.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriber.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriptingAssignmentTrampoline.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriptingAssignmentTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriptionScheduler.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriptionScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTargetQueueScheduler.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTargetQueueScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTestScheduler.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTestScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTuple.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTuple.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTupleSequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACTupleSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACUnarySequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACUnarySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACUnit.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACUnit.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACValueTransformer.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACValueTransformer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa-Bridging-Header.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/ReactiveCocoa-Bridging-Header.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa-Swift.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/ReactiveCocoa/ReactiveCocoa.framework/Headers/ReactiveCocoa-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa-umbrella.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/Target Support Files/ReactiveCocoa/ReactiveCocoa-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActionSheet+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIActionSheet+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIAlertView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+RACCommandSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIBarButtonItem+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+RACCommandSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIButton+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UICollectionReusableView+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UICollectionReusableView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIControl+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIDatePicker+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIDatePicker+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIGestureRecognizer+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIGestureRecognizer+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImagePickerController+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIImagePickerController+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+RACCommandSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIRefreshControl+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISegmentedControl+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UISegmentedControl+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISlider+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UISlider+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIStepper+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIStepper+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISwitch+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UISwitch+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewCell+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UITableViewCell+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewHeaderFooterView+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UITableViewHeaderFooterView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UITextField+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextView+RACSignalSupport.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UITextView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "metamacros.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/metamacros.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/ReactiveCocoa/ReactiveCocoa.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Intermediates/Pods.build/Debug-iphonesimulator/ReactiveCocoa.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/ReactiveCocoa/ReactiveCocoa.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EXTRuntimeExtensions.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/extobjc/EXTRuntimeExtensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEmptySequence.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEmptySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEmptySignal.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACEmptySignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACMulticastConnection+Private.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACMulticastConnection+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler+Private.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACScheduler+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStream+Private.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACStream+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriber+Private.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/RACSubscriber+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+RACSignalSupportPrivate.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/ReactiveCocoa/ReactiveCocoa/Objective-C/UIControl+RACSignalSupportPrivate.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Result-Swift.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/Result/Result.framework/Headers/Result-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Result-umbrella.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/Target Support Files/Result/Result-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/Result/Result.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Intermediates/Pods.build/Debug-iphonesimulator/Result.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/qianbaoios/Desktop/Demo/9.19/DerivedData/9.19/Build/Intermediates/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
